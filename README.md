@@ -72,7 +72,7 @@ This project is **frontend-only** and does not include real authentication or ba
 **Anirudh Yadav**  
 *Frontend Developer & Java Full Stack Learner*
 yanirudh668@gmail.com
-+91 6307621061
++916307621061
 https://www.linkedin.com/in/anirudh-yadav-6a39b1306/
 https://anirudhyadav2425.github.io/
 https://www.hackerrank.com/certificates/54a6be33d6a4
