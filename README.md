@@ -70,12 +70,12 @@ This project is **frontend-only** and does not include real authentication or ba
 ## 🧑‍💻 Author
 
 **Anirudh Yadav**  
-*Frontend Developer & Java Full Stack Learner*
-yanirudh668@gmail.com
-+916307621061
-https://www.linkedin.com/in/anirudh-yadav-6a39b1306/
-https://anirudhyadav2425.github.io/
-https://www.hackerrank.com/certificates/54a6be33d6a4
+*Frontend Developer & Java Full Stack Learner* |
+yanirudh668@gmail.com |
++916307621061 |
+https://www.linkedin.com/in/anirudh-yadav-6a39b1306/ |
+https://anirudhyadav2425.github.io/ |
+https://www.hackerrank.com/certificates/54a6be33d6a4 |
 
 ---
 
