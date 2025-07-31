@@ -8,9 +8,7 @@
 
 /HyperCart
 │
-
 ├── Asset/
-
 │ ├── icon.png
 │ ├── logo.png
 │ └── trolly.png
